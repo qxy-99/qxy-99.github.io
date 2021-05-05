@@ -90,3 +90,7 @@ footer {
 footer ul li{
     color: #fff;
 }
+
+.boxed {
+  border: 1px solid green ;
+} 
